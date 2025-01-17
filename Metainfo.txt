@@ -1,0 +1,11 @@
+Name of QuantLet : 'timeseries'
+
+Published in : 'timeseries' 
+
+Description : 'An example rough vola'
+
+Keywords : 'ts , rough vola'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Fri, Jan 17 2025
